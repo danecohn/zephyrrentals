@@ -1,0 +1,1 @@
+{"name":"zephyr-rentals","version":"1.0.0","private":true,"type":"module","engines":{"node":">=24"},"scripts":{"build":"node scripts/build.mjs","start":"node server.mjs","test":"node --test test/*.test.mjs"},"license":"GPL-3.0-only"}

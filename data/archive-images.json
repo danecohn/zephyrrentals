@@ -1,0 +1,282 @@
+[
+  {
+    "collection": "local-restaurants",
+    "index": 0,
+    "url": "https://images.squarespace-cdn.com/content/v1/690311916e9c7371799fe455/ba7f3518-b014-44ce-a0b6-5077113abbee/The+Mission.jpg",
+    "alt": "Interior of a restaurant bar with chandeliers, people seated at the bar, and a large orange decorative cross on the wall.",
+    "image": "/assets/guide/restaurant-01.webp"
+  },
+  {
+    "collection": "local-restaurants",
+    "index": 1,
+    "url": "https://images.squarespace-cdn.com/content/v1/690311916e9c7371799fe455/50072b7e-f78d-400d-b992-b9cca1f22124/vecina.jpg",
+    "alt": "Modern bar with a black countertop, five bar stools with yellow seats, and a colorful floral mural on the back wall. Glassware and bar essentials are on the counter, and the bar features a mezzanine with bottles on display.",
+    "image": "/assets/guide/restaurant-02.webp"
+  },
+  {
+    "collection": "local-restaurants",
+    "index": 2,
+    "url": "https://images.squarespace-cdn.com/content/v1/690311916e9c7371799fe455/533d515c-976b-463f-a0de-f24bedd91234/toca+madre.jpg",
+    "alt": "Interior of a modern, upscale restaurant with warm lighting, a large central tree, and a mix of seating options including tables with chairs and a bar area.",
+    "image": "/assets/guide/restaurant-03.webp"
+  },
+  {
+    "collection": "local-restaurants",
+    "index": 3,
+    "url": "https://images.squarespace-cdn.com/content/v1/690311916e9c7371799fe455/3b5290b7-8750-439c-9b19-1ebd216df5d3/call+her+martina.jpg",
+    "alt": "A small plate with three black bowls of different sauces, a large round bread, a glass of water, and a white plate on a white table in a restaurant with indoor trees and people dining in the background.",
+    "image": "/assets/guide/restaurant-04.webp"
+  },
+  {
+    "collection": "local-restaurants",
+    "index": 4,
+    "url": "https://images.squarespace-cdn.com/content/v1/690311916e9c7371799fe455/482a35a3-679e-4cb8-a757-79bd3d4f8b38/barrio+queen.jpg",
+    "alt": "Decorative skeleton and doll figures dressed in colorful floral and patterned fabrics, with skeletal faces, set in an indoor environment.",
+    "image": "/assets/guide/restaurant-05.webp"
+  },
+  {
+    "collection": "local-restaurants",
+    "index": 5,
+    "url": "https://images.squarespace-cdn.com/content/v1/690311916e9c7371799fe455/40cb423a-e540-4b86-86b6-68088d804f7d/cien+agaves.jpg",
+    "alt": "Colorful mural of a skeleton playing guitar with flames coming from its mouth, set against a starry night sky, mountains, and cacti.",
+    "image": "/assets/guide/restaurant-06.webp"
+  },
+  {
+    "collection": "local-restaurants",
+    "index": 6,
+    "url": "https://images.squarespace-cdn.com/content/v1/690311916e9c7371799fe455/8996704e-5866-4de4-addd-d2db31f7ef91/diego+pops.jpg",
+    "alt": "Inside a modern restaurant with wooden ceilings and stylish lighting, several tables are occupied by customers, and a bar area with staff serving drinks is visible in the background.",
+    "image": "/assets/guide/restaurant-07.webp"
+  },
+  {
+    "collection": "local-restaurants",
+    "index": 7,
+    "url": "https://images.squarespace-cdn.com/content/v1/690311916e9c7371799fe455/0dfb9864-ae74-4db8-8399-c14574f4f746/ats.jpg",
+    "alt": "Close-up of a large quesadilla cut into sections, served with two cups of salsa and lemon wedges on the side.",
+    "image": "/assets/guide/restaurant-08.webp"
+  },
+  {
+    "collection": "local-restaurants",
+    "index": 8,
+    "url": "https://images.squarespace-cdn.com/content/v1/690311916e9c7371799fe455/b42de41b-dc0b-493f-bf11-e9f441fca0f8/pizzeria+virtu.jpg",
+    "alt": "A close-up of a pizza with cheese, meat, and herbs on a wooden table, with a glass of red wine, a water bottle, and a fork in the foreground. The background shows a bar counter and a person working behind it.",
+    "image": "/assets/guide/restaurant-09.webp"
+  },
+  {
+    "collection": "local-restaurants",
+    "index": 9,
+    "url": "https://images.squarespace-cdn.com/content/v1/690311916e9c7371799fe455/ac5567e5-2472-4480-9d4d-4c2c4160befd/evo.jpg",
+    "alt": "A slice of cheesecake with berry topping and a mint leaf on a white plate, a small cup of coffee, and a cocktail on a wooden table in a dimly lit setting with a decorative glass lamp.",
+    "image": "/assets/guide/restaurant-10.webp"
+  },
+  {
+    "collection": "local-restaurants",
+    "index": 10,
+    "url": "https://images.squarespace-cdn.com/content/v1/690311916e9c7371799fe455/d29bbd13-45bd-49df-81bc-47307759124b/tommyvs.jpg",
+    "alt": "Salad with peaches, cherries, prosciutto, mozzarella, and fresh mint leaves on a white plate.",
+    "image": "/assets/guide/restaurant-11.webp"
+  },
+  {
+    "collection": "local-restaurants",
+    "index": 11,
+    "url": "https://images.squarespace-cdn.com/content/v1/690311916e9c7371799fe455/7e2130a6-93d3-4701-9b97-bcf484c0f68f/DeFalco%27s.jpg",
+    "alt": "A pizza with tomato slices, melted cheese, and basil leaves, a side salad with croutons and dressing, a plate of cooked pasta, and salt and pepper shakers on a wooden table at DeFALCO'S Italian Eatery and Grocery.",
+    "image": "/assets/guide/restaurant-12.webp"
+  },
+  {
+    "collection": "local-restaurants",
+    "index": 12,
+    "url": "https://images.squarespace-cdn.com/content/v1/690311916e9c7371799fe455/37da7e7f-2032-4483-80ca-529a9b659959/steak44.jpg",
+    "alt": "Empty upscale restaurant with round and rectangular tables, white and beige chairs, modern decor, large windows, and decorative lighting fixtures.",
+    "image": "/assets/guide/restaurant-13.webp"
+  },
+  {
+    "collection": "local-restaurants",
+    "index": 13,
+    "url": "https://images.squarespace-cdn.com/content/v1/690311916e9c7371799fe455/44d8d8d3-f23c-40a1-930d-bd02622b94c3/b%26b.jpg",
+    "alt": "A grilled steak on a sizzling platter with a sprig of rosemary, with flames visible in the background and a glass of whiskey.",
+    "image": "/assets/guide/restaurant-14.webp"
+  },
+  {
+    "collection": "local-restaurants",
+    "index": 14,
+    "url": "https://images.squarespace-cdn.com/content/v1/690311916e9c7371799fe455/f380898f-2e86-4b42-ac62-cab2f8bce755/mastros.jpg",
+    "alt": "Interior of an upscale restaurant with tables covered in white tablecloths, a bar with chairs, a brick accent wall, and decorative jars filled with lemons and limes.",
+    "image": "/assets/guide/restaurant-15.webp"
+  },
+  {
+    "collection": "local-restaurants",
+    "index": 15,
+    "url": "https://images.squarespace-cdn.com/content/v1/690311916e9c7371799fe455/64fe1796-66bf-4df4-b1fb-7e157a8a7065/hcc.jpg",
+    "alt": "Grilled steak topped with a green herb and vegetable relish, garnished with fresh herbs, served on a black plate with drinks in the background.",
+    "image": "/assets/guide/restaurant-16.webp"
+  },
+  {
+    "collection": "local-restaurants",
+    "index": 16,
+    "url": "https://images.squarespace-cdn.com/content/v1/690311916e9c7371799fe455/a93556bf-6de6-4fe7-a572-51294b0aaef0/bc.jpg",
+    "alt": "Close-up of a crispy fried chicken sandwich with mayonnaise, lettuce, and pickles on a bun, with a knife inserted into the top bun.",
+    "image": "/assets/guide/restaurant-17.webp"
+  },
+  {
+    "collection": "local-restaurants",
+    "index": 17,
+    "url": "https://images.squarespace-cdn.com/content/v1/690311916e9c7371799fe455/28cc124b-88b2-4ad1-b5ad-d671dfa6d379/schmooze.jpg",
+    "alt": "Bar counter with a glass of whiskey on a napkin, colorful neon lights, liquor bottles on shelves, and a row of glasses.",
+    "image": "/assets/guide/restaurant-18.webp"
+  },
+  {
+    "collection": "local-restaurants",
+    "index": 18,
+    "url": "https://images.squarespace-cdn.com/content/v1/690311916e9c7371799fe455/55b87444-4d12-464f-a857-21c395fd382a/daily+dose.jpg",
+    "alt": "Interior of a cozy bar or cafe with a wooden ceiling, dim warm lighting, a bartender preparing drinks, and a customer working behind the bar. There are multiple TV screens on the walls and various bottles and bar equipment visible.",
+    "image": "/assets/guide/restaurant-19.webp"
+  },
+  {
+    "collection": "local-restaurants",
+    "index": 19,
+    "url": "https://images.squarespace-cdn.com/content/v1/690311916e9c7371799fe455/58baf5b9-a9b2-41b2-bad3-f209c2e262a2/olive+and+ivy.jpg",
+    "alt": "A table with a large pizza topped with arugula, a bowl of strawberry salad with parmesan cheese, a slice of strawberry tart, a glass of lemon and ice drink, and a small glass of champagne with lemon slice.",
+    "image": "/assets/guide/restaurant-20.webp"
+  },
+  {
+    "collection": "local-restaurants",
+    "index": 20,
+    "url": "https://images.squarespace-cdn.com/content/v1/690311916e9c7371799fe455/e93c5a98-5a39-4dec-a637-3e964fb81dcb/cbc.jpg",
+    "alt": "A cheeseburger with lettuce, tomato, pickles, and melted cheese served with fries on the side.",
+    "image": "/assets/guide/restaurant-21.webp"
+  },
+  {
+    "collection": "local-restaurants",
+    "index": 21,
+    "url": "https://images.squarespace-cdn.com/content/v1/690311916e9c7371799fe455/e714ef80-2606-424a-94e9-e55756ece9e0/barstoolscottsdale.jpg",
+    "alt": "A lively sports bar with multiple television screens showing sports games, patrons sitting and standing around tables, servers attending to customers, and a brick wall with lighting that creates a vibrant atmosphere.",
+    "image": "/assets/guide/restaurant-22.webp"
+  },
+  {
+    "collection": "local-restaurants",
+    "index": 22,
+    "url": "https://images.squarespace-cdn.com/content/v1/690311916e9c7371799fe455/c01b9dbe-cc0b-4a2f-97cd-ec8b8832dce2/zipps.jpg",
+    "alt": "Fried chicken sandwich with pickles and lettuce, served with onion rings on blue checkered paper",
+    "image": "/assets/guide/restaurant-23.webp"
+  },
+  {
+    "collection": "local-restaurants",
+    "index": 23,
+    "url": "https://images.squarespace-cdn.com/content/v1/690311916e9c7371799fe455/28e625e0-420e-418e-a605-ae7210a74cf3/socialtap.jpg",
+    "alt": "A hamburger with lettuce, tomato, fried chicken, melted cheese, and a toasted bun, served with French fries on a white plate.",
+    "image": "/assets/guide/restaurant-24.webp"
+  },
+  {
+    "collection": "local-restaurants",
+    "index": 24,
+    "url": "https://images.squarespace-cdn.com/content/v1/690311916e9c7371799fe455/4377f9bf-9819-4c8b-971b-7384324f879d/maya.jpg",
+    "alt": "Interior of a cozy, nature-inspired lounge with wooden furniture, lush green plants, and ambient lighting, featuring a large wall art of a woman's face intertwined with tree branches.",
+    "image": "/assets/guide/restaurant-25.webp"
+  },
+  {
+    "collection": "local-restaurants",
+    "index": 25,
+    "url": "https://images.squarespace-cdn.com/content/v1/690311916e9c7371799fe455/0a4f3e4d-25a0-4032-9c96-64293e285e96/riot.jpg",
+    "alt": "Interior of a modern restaurant or bar with curved seating booths, a long bar counter with barstools, decorative lighting, and a large digital sign saying 'Riot House' in the background.",
+    "image": "/assets/guide/restaurant-26.webp"
+  },
+  {
+    "collection": "local-restaurants",
+    "index": 26,
+    "url": "https://images.squarespace-cdn.com/content/v1/690311916e9c7371799fe455/2f9b8910-4162-4c78-907f-aa1838904808/1111.jpg",
+    "alt": "Crowd dancing and partying in a nightclub with pyrotechnics and modern lighting effects.",
+    "image": "/assets/guide/restaurant-27.webp"
+  },
+  {
+    "collection": "local-restaurants",
+    "index": 27,
+    "url": "https://images.squarespace-cdn.com/content/v1/690311916e9c7371799fe455/771adedb-8c1b-484e-af14-e446350906f0/dierks.jpg",
+    "alt": "Outdoor view of a bar or restaurant with a sign that reads 'Dierks Bentley's Whiskey Row' and American flags, featuring a modern rustic design with wood and metal elements.",
+    "image": "/assets/guide/restaurant-28.webp"
+  },
+  {
+    "collection": "local-restaurants",
+    "index": 28,
+    "url": "https://images.squarespace-cdn.com/content/v1/690311916e9c7371799fe455/7194fcaa-2932-4d7e-b1bb-ba335dee35a9/beverly.jpg",
+    "alt": "A meal spread includes a sandwich, some steaks, fries, dipping sauces, a drink with a lemon twist, a bowl of cherries with mint, and a tray of sliders with condiments, all on a marble surface.",
+    "image": "/assets/guide/restaurant-29.webp"
+  },
+  {
+    "collection": "local-restaurants",
+    "index": 29,
+    "url": "https://images.squarespace-cdn.com/content/v1/690311916e9c7371799fe455/841e6214-9680-414c-aa7a-39313e6c30f7/giligins.jpg",
+    "alt": "Shelves stocked with various bottles of alcohol, illuminated with pink and red lighting, with a television screen displaying a baseball game at the top.",
+    "image": "/assets/guide/restaurant-30.webp"
+  },
+  {
+    "collection": "local-restaurants",
+    "index": 30,
+    "url": "https://images.squarespace-cdn.com/content/v1/690311916e9c7371799fe455/d4a6f029-319c-440f-9996-07197dd7d0ed/o+%281%29.jpg",
+    "alt": "Crowded bar or nightclub with neon signs, including Coors and neon American flag, and dim colorful lighting. People socializing, drinking, and taking photos.",
+    "image": "/assets/guide/restaurant-31.webp"
+  },
+  {
+    "collection": "local-restaurants",
+    "index": 31,
+    "url": "https://images.squarespace-cdn.com/content/v1/690311916e9c7371799fe455/df4b983f-cb42-4d5c-b81b-d590ddb74558/coach.jpg",
+    "alt": "People in a bar decorated with colorful string lights, ornaments, and tinsel for Christmas, with a large TV displaying a sports game.",
+    "image": "/assets/guide/restaurant-32.webp"
+  },
+  {
+    "collection": "local-restaurants",
+    "index": 32,
+    "url": "https://images.squarespace-cdn.com/content/v1/690311916e9c7371799fe455/35363e83-3a96-4312-9bc3-fd0b86e8a3da/shiv.jpg",
+    "alt": "Elegant bar with modern decor, large spherical pendant lights, a marble globe, and a sleek bar counter with various bottles. Seating includes chairs with black upholstery, some patterned, around wooden tables.",
+    "image": "/assets/guide/restaurant-33.webp"
+  },
+  {
+    "collection": "fun-and-leisure",
+    "index": 0,
+    "url": "https://images.squarespace-cdn.com/content/v1/690311916e9c7371799fe455/1dbbd89e-f23d-4d28-9cc4-5970b1a2b218/ebikephoto.jpg",
+    "alt": "Person riding an electric bicycle on a paved path near a wooden fence.",
+    "image": "/assets/guide/experience-01.webp"
+  },
+  {
+    "collection": "fun-and-leisure",
+    "index": 1,
+    "url": "https://images.squarespace-cdn.com/content/v1/690311916e9c7371799fe455/c6147a86-eeba-4fac-93b3-5382526729e1/phx.jpg",
+    "alt": "A city skyline at sunset with high-rise buildings, a cloud-filled sky with orange and pink hues, and a mountain range in the background.",
+    "image": "/assets/guide/experience-02.webp"
+  },
+  {
+    "collection": "fun-and-leisure",
+    "index": 2,
+    "url": "https://images.squarespace-cdn.com/content/v1/690311916e9c7371799fe455/7c8e3c92-19c4-47d1-ac60-24964fcaffed/art+walk.png",
+    "alt": "An art gallery with four large, colorful impressionist paintings on a brown wall. In front, there is a bronze sculpture of a barefoot woman holding a spear, standing on a round base, positioned on a wooden table. To the right, there is another bronze sculpture of a woman wearing a hat and skirt, holding a tray, also standing on a round base.",
+    "image": "/assets/guide/experience-03.webp"
+  },
+  {
+    "collection": "fun-and-leisure",
+    "index": 3,
+    "url": "https://images.squarespace-cdn.com/content/v1/690311916e9c7371799fe455/97d42301-42ae-4c90-b85a-2c7f86046816/park.png",
+    "alt": "Nighttime outdoor stage with four dancers performing under purple and blue lights, neon light fixtures, and trees in the background.",
+    "image": "/assets/guide/experience-04.webp"
+  },
+  {
+    "collection": "fun-and-leisure",
+    "index": 4,
+    "url": "https://images.squarespace-cdn.com/content/v1/690311916e9c7371799fe455/63b37342-771c-4cee-96f7-3cc078017c32/OldTown_KioskMap_Website_page-0001.jpg",
+    "alt": "Old Town Scottsdale Kiosk Map",
+    "image": "/assets/guide/experience-05.webp"
+  },
+  {
+    "collection": "instructions",
+    "index": 0,
+    "url": "https://images.squarespace-cdn.com/content/v1/690311916e9c7371799fe455/3b0dd2b1-5e6c-4de9-b5f2-b65268b748e3/360_F_197884387_kVoogyDQr1m4VTWIYYsoHEw9771pVNY6.jpg",
+    "alt": "Person holding a TV remote control pointed toward a large flat-screen TV displaying a colorful user interface.",
+    "image": "/assets/guide/instructions-01.webp"
+  },
+  {
+    "collection": "otl-home",
+    "index": 0,
+    "url": "https://images.squarespace-cdn.com/content/v1/690311916e9c7371799fe455/eea5ea41-1fef-4957-9255-fb1fe8073589/cc32dcf4-5638-4b6a-ba08-7e8d49898b1a.jpg",
+    "alt": "Open-concept living room with gray sofa, black armchairs, glass coffee table, and a black-and-white rug, connected to a kitchen with wooden cabinets and bar stools, and a dining area with a wooden table and chairs, with stairs to an upper level.",
+    "image": "/assets/guide/otl-home-01.webp"
+  }
+]

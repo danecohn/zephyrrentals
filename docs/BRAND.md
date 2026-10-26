@@ -1,0 +1,7 @@
+# Zephyr Rentals brand
+
+Original AI-generated flowing blue glass Z emblem, created with the built-in image generation tool at the user's request. No existing brand mark was used. Exported transparent PNGs: 64, 180, 256, 512 and 1024 pixels; WebP navigation mark: 512 pixels. Wordmark typography and layout are original website code. Preserve alpha transparency.
+
+## Generation prompt
+
+Use case: logo-brand. Create an original premium hospitality brand symbol for Zephyr Rentals, a carefully curated collection of bright architectural lofts in Scottsdale Arizona. Asset: a single standalone emblem for a website navigation logo, favicon and app icon, centered large on a genuinely transparent background. Subject: an elegant abstract letter Z suggested by three flowing wind ribbons, soft architectural curves and subtly layered translucent blue glass. It should express a gentle breeze, natural light, thoughtful detail and calm hospitality. Color palette: deep ocean/navy blue blending into clear sky blue, very subtle turquoise highlights. Sophisticated quiet premium contemporary identity, polished restrained dimensionality like a precision crafted translucent object, readable silhouette at small sizes, clean crisp edges, generous negative space. No text, no words, no houses, no keys, no palm trees, no clipart sun, no Apple logo, no existing brand marks, no mockup scene, no typography, no badge or enclosing square. One symbol only. Transparent background with preserved alpha.

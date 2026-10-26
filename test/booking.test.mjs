@@ -1,0 +1,8 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {reservationURL,validDate,arizonaToday} from '../booking.mjs';
+const reserve=q=>reservationURL(new URLSearchParams(q),{today:'2026-10-25'});
+test('real calendar dates and Arizona boundary',()=>{assert.equal(validDate('2028-02-29'),true);for(const date of ['2027-02-29','2026-11-31','2026-1-01','bad'])assert.equal(validDate(date),false);assert.equal(arizonaToday(new Date('2026-10-26T03:00:00Z')),'2026-10-25')});
+test('each loft hands off to its distinct verified Guesty listing',()=>{const ids=['69616531c5c0f4003b186ca4','6961652c3a5f0600147da199','6961651ad80acd001276ada1'];ids.forEach((id,i)=>{const u=reserve('unit='+(i+1)+'&guests=3&checkIn=2026-12-10&checkOut=2026-12-15');assert.equal(u.origin,'https://zephyrstr.guestybookings.com');assert.equal(u.pathname,'/en/properties/'+id);assert.equal(u.searchParams.get('adults'),'3');assert.equal(u.searchParams.get('checkIn'),'2026-12-10');assert.equal(u.searchParams.get('checkOut'),'2026-12-15')})});
+test('open dates supported and arbitrary redirect destinations ignored',()=>{const u=reserve('next=https://example.com&url=https://example.com');assert.equal(u.origin,'https://zephyrstr.guestybookings.com');assert.equal(u.pathname,'/en/properties');assert.equal(u.searchParams.has('checkIn'),false)});
+test('invalid dates, occupancies and loft choices cannot reach booking',()=>{for(const q of ['unit=4','unit=https://example.com','guests=0','guests=5','guests=2.5','checkIn=2026-12-01','checkOut=2026-12-10','checkIn=2026-12-11&checkOut=2026-12-10','checkIn=2026-02-30&checkOut=2026-12-10','checkIn=2026-10-24&checkOut=2026-10-29'])assert.throws(()=>reserve(q),undefined,q)});
